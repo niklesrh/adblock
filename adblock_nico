@@ -1,35 +1,35 @@
-imdb.com##.ads
-imdb.com##.ad-container
-imdb.com##.promoted-title
-imdb.com##.promoted-content
-imdb.com##.sponsored
-imdb.com##.sponsored-link
-imdb.com##.sponsored-product
-imdb.com##.sponsored-video
-imdb.com##.ad-break
-imdb.com##.sponsored-post
-imdb.com##.sponsored-search
-imdb.com##.sponsored-search-results
-imdb.com##.sponsored-search-link
-imdb.com##.sponsored-search-ad
-imdb.com##.sponsored-search-text-ad
-imdb.com##.promoted-search-result
-imdb.com##.promoted-search-link
-imdb.com##.promoted-search-ad
-imdb.com##.sponsored-search-text-ad
-imdb.com##.sponsored-search-result
-imdb.com##.sponsored-search-link
-imdb.com##.sponsored-search-ad
-imdb.com##.sponsored-search-text-ad
-imdb.com##.sponsored-search-result
-imdb.com##.sponsored-search-link
-imdb.com##.sponsored-search-ad
-imdb.com##.sponsored-search-text-ad
-imdb.com##.sponsored-search-result
-imdb.com##.sponsored-search-link
-imdb.com##.sponsored-search-ad
-imdb.com##.sponsored-search-text-ad
-imdb.com##.sponsored-search-result
-imdb.com##.sponsored-search-link
-imdb.com##.sponsored-search-ad
-imdb.com##.sponsored-search-text-ad
+0.0.0.0 imdb.com##.ads
+0.0.0.0 imdb.com##.ad-container
+0.0.0.0 imdb.com##.promoted-title
+0.0.0.0 imdb.com##.promoted-content
+0.0.0.0 imdb.com##.sponsored
+0.0.0.0 imdb.com##.sponsored-link
+0.0.0.0 imdb.com##.sponsored-product
+0.0.0.0 imdb.com##.sponsored-video
+0.0.0.0 imdb.com##.ad-break
+0.0.0.0 imdb.com##.sponsored-post
+0.0.0.0 imdb.com##.sponsored-search
+0.0.0.0 imdb.com##.sponsored-search-results
+0.0.0.0 imdb.com##.sponsored-search-link
+0.0.0.0 imdb.com##.sponsored-search-ad
+0.0.0.0 imdb.com##.sponsored-search-text-ad
+0.0.0.0 imdb.com##.promoted-search-result
+0.0.0.0 imdb.com##.promoted-search-link
+0.0.0.0 imdb.com##.promoted-search-ad
+0.0.0.0 imdb.com##.sponsored-search-text-ad
+0.0.0.0 imdb.com##.sponsored-search-result
+0.0.0.0 imdb.com##.sponsored-search-link
+0.0.0.0 imdb.com##.sponsored-search-ad
+0.0.0.0 imdb.com##.sponsored-search-text-ad
+0.0.0.0 imdb.com##.sponsored-search-result
+0.0.0.0 imdb.com##.sponsored-search-link
+0.0.0.0 imdb.com##.sponsored-search-ad
+0.0.0.0 imdb.com##.sponsored-search-text-ad
+0.0.0.0 imdb.com##.sponsored-search-result
+0.0.0.0 imdb.com##.sponsored-search-link
+0.0.0.0 imdb.com##.sponsored-search-ad
+0.0.0.0 imdb.com##.sponsored-search-text-ad
+0.0.0.0 imdb.com##.sponsored-search-result
+0.0.0.0 imdb.com##.sponsored-search-link
+0.0.0.0 imdb.com##.sponsored-search-ad
+0.0.0.0 imdb.com##.sponsored-search-text-ad
